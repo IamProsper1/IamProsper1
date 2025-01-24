@@ -7,6 +7,7 @@ df = px.data.gapminder()
 # Initialize the Dash app
 app = Dash(__name__)
 
+#tried this
 # App layout with dark theme and cool colors
 app.layout = html.Div(
     style={
